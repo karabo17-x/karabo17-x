@@ -15,8 +15,8 @@
 
 ## 💬 Languages I'm Focusing On 
 
-| Language | Emoji | Why I'm Learning It |
-|----------|-------|---------------------|
+| Language  | Why I'm Learning It |
+|----------|
 | Python 🐍 | Easy to write, powerful for scripting, automation & hacking tools |
 | C/C++ ⚙️ | Great for low-level memory & embedded systems — essential for deep tech |
 | JavaScript 🌐 | Crucial for web development & understanding web security (XSS, CSRF) |
@@ -66,10 +66,25 @@ As part of my Electronics journey, I’m exploring:
 ## 📫 Let's Connect
 
 I'm always open to collabs, advice, or just tech chats:
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/karabo-collen-mothapo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://github.com/karabo17-x" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="32"
+height="32"/>
+  </a>
+  
+  <a href="https://instagram.com/karabo_xster" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="32" height="32"/>
+  </a>
+  </p>
 
-- 🌐 [GitHub](https://github.com/karabo17-x)  
-- ✉️ karabocollenm@gmail.com
+  <a href="mailto:karabocollenm@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32" height="32"/>
+  </a>
+  </p>
+
 - 📞 +27 63 858 6871
 
 ---
