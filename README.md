@@ -70,7 +70,7 @@ I'm always open to collabs, advice, or just tech chats:
 
 <p align="left">
 
-<a href="www.instagram.com/karabo_xster/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karabo_xster" height="30" width="40" /></a>
+<a href="www.instagram.com/karabo_xster/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="karabo_xster" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/karabo-collen-mothapo-81415a34a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karabo-collen-mothapo" height="30" width="40" /></a>
 
 
