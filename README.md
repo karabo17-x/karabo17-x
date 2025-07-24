@@ -78,7 +78,7 @@ height="32"/>
   <a href="https://instagram.com/karabo_xster" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="32" height="32"/>
   </a>
-  </p>
+  
 
   <a href="mailto:karabocollenm@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32" height="32"/>
