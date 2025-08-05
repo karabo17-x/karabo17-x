@@ -80,7 +80,7 @@ height="32"/>
   </a>
   
 
-  <a href="mailto:karabocollenm@gmail.com">
+  <a href="mailto:xsterkari@proton.me">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32" height="32"/>
   </a>
   </p>
