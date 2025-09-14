@@ -80,7 +80,7 @@ height="32"/>
   </a>
   
 
-  <a href="mailto:xsterkari@proton.me">
+  <a href="mailto:karabocollenm@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32" height="32"/>
   </a>
   </p>
@@ -90,4 +90,5 @@ height="32"/>
 ---
 
 > _“Stay curious. Stay secure.”_
+> _"REMEMBER TO REMEMBER."_
 
