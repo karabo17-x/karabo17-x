@@ -42,7 +42,7 @@
 - Web Application Pentesting 
 - SQL Injection, XSS, CSRF, SSRF
 - Reconnaissance & Enumeration
-- Exploit Development (Basic)
+- Exploit Development 
 - Network Attacks & Protocol Abuse
 
 ### 🔵 Defensive Security
@@ -57,7 +57,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,kubernetes,aws,js,go,html,css,react,nodejs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,aws,js,go,html,css,react,nodejs,mongodb,postgres" />
 </p>
 
 ### 🧪 Security Tools
@@ -89,7 +89,7 @@ Servers (Linux / Windows)
 
 Firewalls & Routers
 
-Web servers (Apache, Nginx)
+Web servers (Apache)
 
 Applications
 
@@ -118,7 +118,7 @@ Cloud services (AWS, Azure)
 
 <p align="center">
   <a href="https://github.com/karabo17-x">
-    <img src="https://img.shields.io/badge/GitHub-Moon9t-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-karabo17-x-black?style=for-the-badge&logo=github" />
   </a>
   <a href="karabocollenm@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
