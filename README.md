@@ -1,93 +1,135 @@
-# 👋🏾 Hey there, I'm **Karabo Mothapo**  
 
-🎓 A passionate **Computer Science & Electronics** student, constantly exploring the intersection of hardware and software. While my current path is set toward **Cybersecurity 🔐**, I'm always open to discovering other exciting fields within tech!
+# Karabo Xster
 
----
-
-## 🚀 What I'm All About
-
-- 💻 Blending code with circuits
-- 🧠 Always learning something new
-- 🛡️ Building a foundation in **Cybersecurity**
-- 🔍 Curious about how things work — and how to break them (ethically, of course)
-
----
-
-## 💬 Languages I'm Focusing On 
-
-| Language  | Why I'm Learning It |
-|----------|
-| Python 🐍 | Easy to write, powerful for scripting, automation & hacking tools |
-| C/C++ ⚙️ | Great for low-level memory & embedded systems — essential for deep tech |
-| JavaScript 🌐 | Crucial for web development & understanding web security (XSS, CSRF) |
-| Bash 🖥️ | My go-to for Linux command-line wizardry & automation |
-| SQL 🗃️ | Can't defend data if you don't know how it's structured — watch out for SQL injection! |
-| Go 🚀 | Fast, efficient, and becoming a favorite in the cybersecurity world |
-| Java ☕ | Solid for enterprise systems and Android app security |
-
----
-
-## 🔐 My Cybersecurity Path
-
-I'm diving into:
-
-- 🧠 **Networking**: TCP/IP, firewalls, DNS, VPNs — know your packets!
-- 🐧 **Linux Mastery**: Bash scripts, cron jobs, system internals
-- 🧰 **Pentesting Tools**: Metasploit, Burp Suite, Wireshark, nmap
-- 🕵️‍♂️ **Ethical Hacking**: Capture The Flag (CTF) games, bug bounty hunting
-- 🔐 **Cryptography**: Learning how data stays secure (or doesn't!)
-- 🛡️ **Secure Coding**: Writing code that doesn’t get pwned
-
----
-
-## 🔧 Electronics — Where Code Meets Copper
-
-As part of my Electronics journey, I’m exploring:
-
-- 🤖 **Microcontrollers**: Arduino & Raspberry Pi projects — hands-on with hardware
-- 💡 **Digital Logic & Circuits**: Understanding how machines *think*
-- 🧾 **Embedded C**: Programming close to the metal
-- 📟 **Signal Processing & Sensors**: Making machines that respond to the real world
-- 🧩 **PCB Design**: Turning prototypes into physical devices
-- 🕸️ **Networking Hardware**: Getting deeper into the hardware behind the internet
-
----
-
-## 📍 My Roadmap (a few key goals)
-
-- 🛠️ Build cool, useful, and maybe even weird open-source projects
-- 🔐 Contribute to security tools or bug bounties
-- 🧠 Sharpen my skills through CTFs and hackathons
-- 🎯 Land an internship in cybersecurity or embedded systems
-- 🚧 Always keep learning — the tech world never stops!
-
----
-
-## 📫 Let's Connect
-
-I'm always open to collabs, advice, or just tech chats:
 <p align="center">
-  <a href="https://linkedin.com/in/karabo-collen-mothapo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  <a href="https://github.com/karabo17-x" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="32"
-height="32"/>
-  </a>
-  
-  <a href="https://instagram.com/karabo_xster" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="32" height="32"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/Cybersecurity-Elite%20Operator-00ffd5?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-  <a href="mailto:karabocollenm@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32" height="32"/>
-  </a>
-  </p>
-
-- 📞 +27 63 858 6871
+<h2 align="center">🛡️ Cybersecurity Engineer / Security Researcher</h2>
 
 ---
+
+## 🧠 About Me
+
+- ⚡ Security Engineer at **Eclipse Softworks**
+- 🔐 Passionate about **Cybersecurity, Threat Hunting & Secure Systems**
+- 🧪 Focused on **Offensive Security, Vulnerability Research & Defense**
+- 🌍 Based in **South Africa**
+- 🎯 Always pushing boundaries — **breaking systems to secure them**
+- 💬 Ask me about **Pentesting, SOC, SIEM, Malware & Secure Architecture**
+
+---
+
+## 🚀 Security Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY%20RANK-OPERATOR-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-JUNIOR%20→%20SENIOR-00ffd5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-225-00ffd5?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/karabo17-x">
+    🔥 GitHub Activity & Streak
+  </a>
+</p>
+
+---
+
+## 🧰 Cybersecurity 
+
+### 🔴 Offensive Security
+- Web Application Pentesting 
+- SQL Injection, XSS, CSRF, SSRF
+- Reconnaissance & Enumeration
+- Exploit Development (Basic)
+- Network Attacks & Protocol Abuse
+
+### 🔵 Defensive Security
+- SOC Operations & Incident Response
+- SIEM (Log Correlation & Alerts)
+- Threat Detection & Analysis
+- Secure System Hardening
+- Risk Assessment & Mitigation
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,kubernetes,aws,js,go,html,css,react,nodejs,mongodb,postgres" />
+</p>
+
+### 🧪 Security Tools
+- 🐍 Python (Security Automation)
+- 🧠 Burp Suite
+- 🕷️ Nmap
+- 🔍 Wireshark
+- 🛡️ Metasploit
+- 🧬 Nikto
+- 🔐 OpenSSL
+- 📊 ELK Stack
+- 🧾 Wazuh / Splunk 
+---
+
+## 📂 Featured Projects
+
+### 🔥 Terminal Vulnerability Scanner
+> Automated scanning for:
+- Missing security headers
+- XSS vectors
+- Exposed scripts
+- Weak configurations  
+**Tech:** Python, Requests, BeautifulSoup, Concurrent Futures
+
+### 🛡️ Security Information And Management System
+> Visual risk dashboard for SIEM ingests logs from:
+
+Servers (Linux / Windows)
+
+Firewalls & Routers
+
+Web servers (Apache, Nginx)
+
+Applications
+
+Databases
+
+IDS/IPS
+
+Endpoints
+
+Cloud services (AWS, Azure)
+**Tech:** Flask, HTML/CSS, Charts, JSON Reports
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 Advanced Web Exploitation
+- 🧠 Malware Analysis 
+- 📡 Network Security
+- 🧪 Building real-world **Cybersecurity Tools**
+- 📈 Moving toward **Elite Security Engineering**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/karabo17-x">
+    <img src="https://img.shields.io/badge/GitHub-Moon9t-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="karabocollenm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚠️ “Attack to understand. Defend to protect.” ⚠️</b>
+</p>
 
 > _“Stay curious. Stay secure.”_
 > _"REMEMBER TO REMEMBER."_
