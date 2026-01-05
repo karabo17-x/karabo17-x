@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/karabo17-x">
-    🔥 GitHub Activity & Streak
+
   </a>
 </p>
 
@@ -46,7 +46,6 @@
 - Network Attacks & Protocol Abuse
 
 ### 🔵 Defensive Security
-- SOC Operations & Incident Response
 - SIEM (Log Correlation & Alerts)
 - Threat Detection & Analysis
 - Secure System Hardening
@@ -66,10 +65,7 @@
 - 🕷️ Nmap
 - 🔍 Wireshark
 - 🛡️ Metasploit
-- 🧬 Nikto
 - 🔐 OpenSSL
-- 📊 ELK Stack
-- 🧾 Wazuh / Splunk 
 ---
 
 ## 📂 Featured Projects
