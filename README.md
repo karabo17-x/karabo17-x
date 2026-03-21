@@ -23,9 +23,27 @@
   Gaining hands-on experience in identifying vulnerabilities, analyzing security risks, 
   and applying real-world offensive and defensive security techniques.
 </p>
-<h2 align="center">🛡️ Cybersecurity Engineer / Security Researcher</h2>
-<h2 align="centre"> MWR CyberSec / Internship </h2>
 
+
+<!-- HEADER -->
+<h1 align="center">👨‍💻 Karabo Mothapo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Engineer;Security+Researcher;MWR+CyberSec+Intern;Offensive+Security+Enthusiast" />
+</p>
+
+<!-- BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Elite_Operator-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+<!-- TERMINAL STYLE BOX -->
+```bash
+> Initializing profile...
+> Loading credentials...
+> Access Granted ✅
 ---
 
 ## 🧠 About Me
