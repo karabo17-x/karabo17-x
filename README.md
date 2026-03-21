@@ -6,25 +6,6 @@
 </p>
 <h2 align="center">🛡️ Cybersecurity Engineer / Security Researcher</h2>
 
-<h2 align="center">
-  💼 Intern @ MWR CyberSec
-</h2>
-
-<p align="center">
-  <img src="https://www.mwrinfosecurity.com/globalassets/images/logos/mwr-logo.png" 
-       alt="MWR CyberSec Logo" width="180"/>
-</p>
-
-<p align="center">
-  Currently enrolled as a cybersecurity intern at <strong>MWR CyberSec</strong>, 
-  a globally recognized security firm specializing in advanced penetration testing, 
-  threat intelligence, and cyber defense solutions. 
-  <br><br>
-  Gaining hands-on experience in identifying vulnerabilities, analyzing security risks, 
-  and applying real-world offensive and defensive security techniques.
-</p>
-
-
 <!-- HEADER -->
 <h1 align="center">👨‍💻 Karabo Mothapo</h1>
 
