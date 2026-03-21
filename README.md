@@ -1,11 +1,12 @@
 
-# Karabo Xster
+# Karabo Mothapo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Elite%20Operator-00ffd5?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h2 align="center">🛡️ Cybersecurity Engineer / Security Researcher</h2>
+<h2 align="centre"> MWR CyberSec / Intership </h2>
 
 ---
 
