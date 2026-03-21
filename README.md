@@ -37,14 +37,6 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Elite_Operator-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-<!-- TERMINAL STYLE BOX -->
-```bash
-> Initializing profile...
-> Loading credentials...
-> Access Granted ✅
----
 
 ## 🧠 About Me
 
