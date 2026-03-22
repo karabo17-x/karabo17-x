@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Security+Engineer;Cybersecurity+Researcher;MWR+CyberSec+Intern;Offensive+Security+Specialist" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+System...;Karabo+Mothapo+%7C+MWR+CyberSec+Intern;pain%3Dbestfriend;Binary+Mindset+Activated;Access+Granted" />
+</p>
 </p>
 
 <p align="center">
