@@ -1,16 +1,10 @@
 
-# Karabo Mothapo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Elite%20Operator-00ffd5?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<h2 align="center">🛡️ Cybersecurity Engineer / Security Researcher</h2>
 
 <!-- HEADER -->
 <h1 align="center">👨‍💻 Karabo Mothapo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Engineer;Security+Researcher;MWR+CyberSec+Intern;Offensive+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Security Engineer;Security+Researcher;MWR+CyberSec+Intern;Offensive+Security+Enthusiast" />
 </p>
 
 <!-- BADGE -->
