@@ -34,9 +34,14 @@
 ## 🛰️ Threat Intel Profiles
 
 <p align="center">
+  <a href="https://tryhackme.com/karabocollenm">
+    <img src="https://img.shields.io/badge/TryHackMe-Access-black?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://hackthebox.com/karabo17x">
+    <img src="https://img.shields.io/badge/HackTheBox-Authorisation-red?style=for-the-badge&logo=hackthebox" />
+  </a>
+</p>
   
-</p>[![TryHackMe](https://img.shields.io/badge/TryHackMe-Karabo-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/karabocollenm)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-Karabo-green?style=for-the-badge&logo=hackthebox)](https://www.hackthebox.eu/home/users/profile/Karabo17x) 
 
 ---
 
