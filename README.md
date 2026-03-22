@@ -34,7 +34,7 @@
 ## 🛰️ Threat Intel Profiles
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/karabocollenm" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/karabocollenm.png" />
   <img src="https://www.hackthebox.com/badge/image/Karabo17x" />
 </p>
 
