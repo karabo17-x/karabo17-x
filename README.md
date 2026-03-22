@@ -34,16 +34,16 @@
 ## 🛰️ Threat Intel Profiles
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/karabocollenm.png" />
-  <img src="https://www.hackthebox.com/badge/image/Karabo17x" />
-</p>
+  
+</p>[![TryHackMe](https://img.shields.io/badge/TryHackMe-Karabo-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/karabocollenm)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Karabo-green?style=for-the-badge&logo=hackthebox)](https://www.hackthebox.eu/home/users/profile/Karabo17x) 
 
 ---
 
 ## 💼 Current Mission
 
 <p align="center">
-  <img src="https://logo.clearbit.com/mwrinfosecurity.com" width="150"/>
+  
 </p>
 
     > organization: MWR CyberSec
@@ -125,32 +125,6 @@
     - Web servers
     - Databases
     - Cloud (AWS / Azure)
-
----
-
-## 📊 System Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karabo17-x&show_icons=true&theme=chartreuse-dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karabo17-x&theme=chartreuse-dark" />
-</p>
-
----
-
-## 🧬 Contribution Matrix
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karabo17-x&theme=chartreuse-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff" />
-</p>
-
----
-
-## 🐍 Commit Snake
-
-<p align="center">
-  <img src="https://github.com/karabo17-x/karabo17-x/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
