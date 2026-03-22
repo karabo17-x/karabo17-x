@@ -4,7 +4,7 @@
 <h1 align="center">👨‍💻 Karabo Mothapo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Security Engineer;Security+Researcher;MWR+CyberSec+Intern;Offensive+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Engineer;Security+Researcher;MWR+CyberSec+Intern;Offensive+Security+Enthusiast" />
 </p>
 
 <!-- BADGE -->
