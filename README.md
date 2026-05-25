@@ -142,7 +142,7 @@
   <a href="https://github.com/karabo17-x">
     <img src="https://img.shields.io/badge/GitHub-Access-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:karabocollenm@gmail.com">
+  <a href="mailto:karab017-x@proton.me">
     <img src="https://img.shields.io/badge/Email-Transmit-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
