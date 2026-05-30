@@ -1,10 +1,8 @@
+
 # 👨‍💻 Karabo Mothapo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Security+Engineer;Cybersecurity+Researcher;MWR+CyberSec+Intern;Offensive+Security+Specialist" />
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+System...;Binary+Mindset+Activated;Access+Granted" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Intern;Offensive+%26+Defensive+Ops;Breaking+Systems+to+Secure+Them" />
 </p>
 
 <p align="center">
@@ -15,124 +13,56 @@
 
 ---
 
-## 🧠 About Me
+## > whoami
 
-    > whoami
-    Karabo Mothapo
-
-    > role
-    Security Engineer @ Eclipse Softworks
-
-    > current_mission
-    Intern @ MWR CyberSec
-
-    > location
-    South Africa
-
-    > objective
-    Breaking systems to secure them
-
----
-
-## 🛰️ Threat Intel Profiles
-
-<p align="center">
-  <a href="https://tryhackme.com/karabocollenm">
-    <img src="https://img.shields.io/badge/TryHackMe-Access-black?style=for-the-badge&logo=tryhackme" />
-  </a>
-  <a href="https://hackthebox.com/karabo17x">
-    <img src="https://img.shields.io/badge/HackTheBox-Authorisation-red?style=for-the-badge&logo=hackthebox" />
-  </a>
-</p>
-  
-
----
-
-## 💼 Current Mission
-
-<p align="center">
-  
-</p>
-
-    > organization: MWR CyberSec
-    > role: Cybersecurity Intern
-    > status: ACTIVE
-    > focus: offensive + defensive operations
-
----
-
-## 🧠 Active Targets
-
-    [✔] Web Exploitation
-    [✔] Network Attacks
-    [✔] Privilege Escalation
-    [~] Advanced Malware Analysis (in progress...)
-
----
-
-## 📡 Live Attack Feed
-
-    [+] Recon: scanning target surface...
-    [+] Found endpoints: /login /admin /api
-    [!] Testing XSS payloads...
-    [✔] Reflected input detected
-    [+] Checking headers...
-    [-] Missing CSP
-    [✔] Vulnerability confirmed
-    [+] Generating report...
-
-    > next: exploitation phase
+```
+Name     : Karabo Mothapo
+Role     : Security Engineer @ Eclipse Softworks
+Mission  : Cybersecurity Intern @ MWR CyberSec
+Location : South Africa 
+Objective: Breaking systems to secure them
+```
 
 ---
 
 ## 🧰 Cyber Arsenal
 
-### 🔴 Offensive
-    SQLi | XSS | CSRF | SSRF
-    Recon & Enumeration
-    Exploit Development
-    Network Exploitation
+| 🔴 Offensive | 🔵 Defensive |
+|---|---|
+| SQLi · XSS · CSRF · SSRF | SIEM Monitoring |
+| Recon & Enumeration | Threat Detection |
+| Exploit Development | System Hardening |
+| Network Exploitation | Risk Mitigation |
 
-### 🔵 Defensive
-    SIEM Monitoring
-    Threat Detection
-    System Hardening
-    Risk Mitigation
-
----
-
-## 🛠️ Tools & Tech
+**Tools:** Burp Suite · Metasploit · Nmap · Wireshark · Gobuster · Zenmap
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,js,go,react,nodejs,mongodb,postgres,c/c++" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,js,go,c" />
 </p>
-
-    ✔ Burp Suite
-    ✔ zenmap
-    ✔ Wireshark
-    ✔ Metasploit
-    ✔ Goburster
-    ✔ nmap
-    
 
 ---
 
-## 📂 Active Operations
+## 🎯 Active Targets
 
-### 🔥 Terminal Vulnerability Scanner
-    modules:
-    - XSS detection
-    - Header analysis
-    - Script exposure
-    - Misconfigurations
+```
+[✔] Web Exploitation
+[✔] Network Attacks
+[✔] Privilege Escalation
+[~] Advanced Malware Analysis  ← in progress
+```
 
-### 🛡️ SIEM Dashboard
-    log_sources:
-    - Linux / Windows servers
-    - Firewalls
-    - Web servers
-    - Databases
-    - Cloud (AWS / Azure)
+---
+
+## 📡 Threat Intel Profiles
+
+<p align="center">
+  <a href="https://tryhackme.com/karabocollenm">
+    <img src="https://img.shields.io/badge/TryHackMe-Active-black?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://hackthebox.com/karabo17x">
+    <img src="https://img.shields.io/badge/HackTheBox-Active-red?style=for-the-badge&logo=hackthebox" />
+  </a>
+</p>
 
 ---
 
@@ -140,33 +70,17 @@
 
 <p align="center">
   <a href="https://github.com/karabo17-x">
-    <img src="https://img.shields.io/badge/GitHub-Access-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-karabo17--x-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:karabo17-x@proton.me">
-    <img src="https://img.shields.io/badge/Email-Transmit-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Secure+Channel-red?style=for-the-badge&logo=protonmail" />
   </a>
 </p>
 
----
-
-## 🖥️ Terminal
-
-    > initializing system...
-    > loading modules...
-    > establishing secure channel...
-
-    ✔ ACCESS GRANTED
-
-    > Attack to understand.
-    > Defend to protect.
-
-    > REMEMBER TO REMEMBER.
-
-
----
-
-
+```
+> Attack to understand. Defend to protect. REMEMBER TO REMEMBER.
+```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer"/>
 </p>
