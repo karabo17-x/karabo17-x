@@ -21,6 +21,7 @@ Role     : Security Engineer @ Eclipse Softworks
 Mission  : Cybersecurity Intern @ MWR CyberSec
 Location : South Africa 
 Objective: Breaking systems to secure them
+Project  : Currently building an SIEM
 ```
 
 ---
