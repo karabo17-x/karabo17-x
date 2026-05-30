@@ -22,6 +22,7 @@ role      : Security Engineer @ Eclipse Softworks
 mission   : Cybersecurity Intern @ MWR CyberSec
 location  : South Africa 
 objective : Breaking systems to secure them
+project   : Building SIEM
 ```
 
 ---
@@ -86,7 +87,3 @@ objective : Breaking systems to secure them
 ```
 > Attack to understand. Defend to protect. REMEMBER TO REMEMBER.
 ```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&fontColor=00ff41"/>
-</p>
