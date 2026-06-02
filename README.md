@@ -77,9 +77,7 @@ project   : Building SIEM
   <a href="https://github.com/karabo17-x">
     <img src="https://img.shields.io/badge/GitHub-karabo17--x-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=000000" />
   </a>
-  <a href="mailto:karabo17-x@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-00ff41?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=000000&color=000000" />
-  </a>
+  
 </p>
 
 ---
