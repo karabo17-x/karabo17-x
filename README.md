@@ -1,11 +1,9 @@
-
 <div align="center" style="background:#000;padding:2rem;font-family:'Courier New',monospace;color:#00ff41;">
-
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="110" style="filter:invert(1) sepia(1) saturate(5) hue-rotate(90deg) brightness(1.2);"/>
 
 # Karabo17-x
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Intern;Offensive+%26+Defensive+Ops;Breaking+Systems+to+Secure+Them" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Alumni;Offensive+%26+Defensive+Ops;Breaking+Systems+to+Secure+Them" />
 
 ![](https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=000000)
 ![](https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&labelColor=000000)
@@ -19,7 +17,7 @@
 root@karabo17x:~# whoami
 name      : Karabo Mothapo
 role      : Security Engineer @ Eclipse Softworks
-mission   : Cybersecurity Intern @ MWR CyberSec
+status    : MWR CyberSec Internship — COMPLETED ✔
 location  : South Africa 
 objective : Breaking systems to secure them
 project   : Building SIEM
@@ -58,6 +56,14 @@ project   : Building SIEM
 
 ---
 
+## 🏁 Completed Programs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MWR%20CyberSec-Internship%20Completed-00ff41?style=for-the-badge&labelColor=000000" />
+</p>
+
+---
+
 ## 📡 Threat Intel
 
 <p align="center">
@@ -77,7 +83,6 @@ project   : Building SIEM
   <a href="https://github.com/karabo17-x">
     <img src="https://img.shields.io/badge/GitHub-karabo17--x-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=000000" />
   </a>
-  
 </p>
 
 ---
