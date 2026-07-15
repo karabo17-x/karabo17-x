@@ -3,7 +3,7 @@
 
 # Karabo17-x
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Alumni;Offensive+%26+Defensive+Ops;Breaking+Systems+to+Secure+Them" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Alumni;Offensive+%26+Defensive+Ops;DevOps+%26+Automation;Breaking+Systems+to+Secure+Them" />
 
 ![](https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=000000)
 ![](https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&labelColor=000000)
@@ -19,8 +19,9 @@ name      : Karabo Mothapo
 role      : Security Engineer @ Eclipse Softworks
 status    : MWR CyberSec Internship — COMPLETED ✔
 location  : South Africa 
-objective : Breaking systems to secure them
+objective : Breaking systems to secure them, automating how they're built
 project   : Building SIEM
+focus     : Cybersecurity + DevOps
 ```
 
 ---
@@ -45,13 +46,37 @@ project   : Building SIEM
 
 ---
 
+## ⚙ DevOps Arsenal
+
+| 🚀 CI/CD & Automation | ☁️ Infra & Cloud |
+|---|---|
+| Jenkins · GitHub Actions | AWS (EC2, IAM, S3, VPC) |
+| Docker · Container Hardening | Terraform (IaC) |
+| Ansible Playbooks | Kubernetes (learning) |
+| Shell/Bash Scripting | Log Aggregation & Monitoring |
+
+```
+[✔] Docker       [✔] Terraform    [✔] Ansible
+[✔] Jenkins      [~] Kubernetes   [✔] GitHub Actions
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,aws,linux&theme=dark" />
+</p>
+
+> Security-minded DevOps: pipelines that fail closed, infra that's hardened by default, and logs that actually get watched.
+
+---
+
 ## ⬡ Active Targets
 
 ```
 [✔] Web Exploitation
 [✔] Network Attacks
 [✔] Privilege Escalation
-[~] Advanced Malware Analysis  ← in progress
+[~] Advanced Malware Analysis   ← in progress
+[~] CI/CD Pipeline Security     ← in progress
+[~] Infrastructure as Code      ← in progress
 ```
 
 ---
@@ -88,5 +113,5 @@ project   : Building SIEM
 ---
 
 ```
-> Attack to understand. Defend to protect. REMEMBER TO REMEMBER.
+> Attack to understand. Defend to protect. Automate to scale. REMEMBER TO REMEMBER.
 ```
