@@ -13,16 +13,6 @@
 
 ---
 
-## ◈ Identity Render
-
-<p align="center">
-  <img src="assets/binary_portrait.png" width="480" alt="Portrait rendered entirely in 0s and 1s" />
-</p>
-
-<p align="center"><em>// profile decoded — every pixel is a 0 or a 1 //</em></p>
-
----
-
 ```bash
 root@karabo17x:~# whoami
 name      : Karabo Mothapo
@@ -36,9 +26,9 @@ focus     : Cybersecurity + DevOps
 
 ---
 
-## ◈ Cyber Arsenal
+##  Cyber Arsenal
 
-| 🔴 Offensive | 🔵 Defensive |
+|  Offensive |  Defensive |
 |---|---|
 | SQLi · XSS · CSRF · SSRF | SIEM Monitoring |
 | Recon & Enumeration | Threat Detection |
@@ -58,7 +48,7 @@ focus     : Cybersecurity + DevOps
 
 ## ⚙ DevOps Arsenal
 
-| 🚀 CI/CD & Automation | ☁️ Infra & Cloud |
+|  CI/CD & Automation |  Infra & Cloud |
 |---|---|
 | Jenkins · GitHub Actions | AWS (EC2, IAM, S3, VPC) |
 | Docker · Container Hardening | Terraform (IaC) |
@@ -91,7 +81,7 @@ focus     : Cybersecurity + DevOps
 
 ---
 
-## 🏁 Completed Programs
+##  Completed Programs
 
 <p align="center">
   <img src="https://img.shields.io/badge/MWR%20CyberSec-Internship%20Completed-00ff41?style=for-the-badge&labelColor=000000" />
@@ -99,7 +89,7 @@ focus     : Cybersecurity + DevOps
 
 ---
 
-## 📡 Threat Intel
+##  Threat Intel
 
 <p align="center">
   <a href="https://tryhackme.com/karabocollenm">
@@ -112,7 +102,7 @@ focus     : Cybersecurity + DevOps
 
 ---
 
-## 📡 Connect
+##  Connect
 
 <p align="center">
   <a href="https://github.com/karabo17-x">
