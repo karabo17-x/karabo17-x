@@ -24,6 +24,20 @@ project   : Building SIEM
 focus     : Cybersecurity + DevOps
 ```
 
+### ⬡ Mindset Loop
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+flowchart LR
+    A["⚔ ATTACK<br/>to understand"] --> B["🛡 DEFEND<br/>to protect"]
+    B --> C["⚙ AUTOMATE<br/>to scale"]
+    C --> D["🔁 REMEMBER<br/>TO REMEMBER"]
+    D --> A
+
+    classDef node fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
+    class A,B,C,D node;
+```
+
 ---
 
 ##  Cyber Arsenal
@@ -43,6 +57,23 @@ focus     : Cybersecurity + DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,go,c&theme=dark" />
 </p>
+
+### ⬡ Engagement Flow
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+flowchart LR
+    R["🔍 Recon<br/>Nmap · Gobuster"] --> E["📡 Enumeration<br/>Zenmap · Wireshark"]
+    E --> X["💥 Exploitation<br/>Burp · Metasploit"]
+    X --> P["⬆ Privilege<br/>Escalation"]
+    P --> REP["📝 Report &<br/>Remediate"]
+    REP -.->|"harden + detect"| SIEM[("SIEM<br/>Rules")]
+
+    classDef step fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
+    classDef sink fill:#001a06,stroke:#00ff41,stroke-width:2px,stroke-dasharray:4 3,color:#00ff41;
+    class R,E,X,P,REP step;
+    class SIEM sink;
+```
 
 ---
 
@@ -66,6 +97,26 @@ focus     : Cybersecurity + DevOps
 
 > Security-minded DevOps: pipelines that fail closed, infra that's hardened by default, and logs that actually get watched.
 
+### ⬡ Fail-Closed Pipeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+flowchart LR
+    C["📥 Commit"] --> S["🔑 Secrets &<br/>SAST Scan"]
+    S -->|pass| B["🐳 Build<br/>Docker Image"]
+    B --> I["🧪 Image &<br/>IaC Scan"]
+    I -->|pass| D["🚀 Deploy<br/>Terraform · Ansible"]
+    D --> M["📊 Monitor<br/>Logs → SIEM"]
+
+    S -->|fail| X["⛔ BLOCKED"]
+    I -->|fail| X
+
+    classDef ok fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
+    classDef bad fill:#1a0000,stroke:#ff3131,stroke-width:2px,color:#ff3131;
+    class C,S,B,I,D,M ok;
+    class X bad;
+```
+
 ---
 
 ## ⬡ Active Targets
@@ -79,6 +130,29 @@ focus     : Cybersecurity + DevOps
 [~] Infrastructure as Code      ← in progress
 ```
 
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+flowchart TB
+    ME(("Karabo17-x"))
+    ME --> DONE["✔ Completed"]
+    ME --> WIP["~ In Progress"]
+
+    DONE --> W1["Web Exploitation"]
+    DONE --> W2["Network Attacks"]
+    DONE --> W3["Privilege Escalation"]
+
+    WIP --> P1["Advanced Malware Analysis"]
+    WIP --> P2["CI/CD Pipeline Security"]
+    WIP --> P3["Infrastructure as Code"]
+
+    classDef root fill:#00ff41,stroke:#00ff41,color:#000000,font-weight:bold;
+    classDef done fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
+    classDef wip fill:#000,stroke:#00ff41,stroke-width:2px,stroke-dasharray:5 3,color:#00ff41;
+    class ME root;
+    class DONE,W1,W2,W3 done;
+    class WIP,P1,P2,P3 wip;
+```
+
 ---
 
 ##  Completed Programs
@@ -86,6 +160,41 @@ focus     : Cybersecurity + DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/MWR%20CyberSec-Internship%20Completed-00ff41?style=for-the-badge&labelColor=000000" />
 </p>
+
+---
+
+##  Current Project: SIEM Build
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+flowchart LR
+    subgraph SRC["Log Sources"]
+        direction TB
+        L1["Linux / Syslog"]
+        L2["AWS CloudTrail"]
+        L3["Docker / App Logs"]
+    end
+
+    subgraph PIPE["Pipeline"]
+        direction LR
+        COL["Collector"] --> PAR["Parser &<br/>Normalizer"] --> STO[("Storage")]
+    end
+
+    subgraph DET["Detection & Response"]
+        direction TB
+        RUL["Detection Rules"] --> ALR["🚨 Alerts"]
+        RUL --> DSH["📊 Dashboards"]
+    end
+
+    SRC --> COL
+    STO --> RUL
+
+    classDef n fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
+    class L1,L2,L3,COL,PAR,STO,RUL,ALR,DSH n;
+    style SRC fill:#000,stroke:#00ff41,stroke-dasharray:4 3,color:#00ff41
+    style PIPE fill:#000,stroke:#00ff41,stroke-dasharray:4 3,color:#00ff41
+    style DET fill:#000,stroke:#00ff41,stroke-dasharray:4 3,color:#00ff41
+```
 
 ---
 
