@@ -1,3 +1,4 @@
+
 <div align="center" style="background:#000;padding:2rem;font-family:'Courier New',monospace;color:#00ff41;">
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="110" style="filter:invert(1) sepia(1) saturate(5) hue-rotate(90deg) brightness(1.2);"/>
 
@@ -29,9 +30,9 @@ focus     : Cybersecurity + DevOps
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
-    A["⚔ ATTACK<br/>to understand"] --> B["🛡 DEFEND<br/>to protect"]
-    B --> C["⚙ AUTOMATE<br/>to scale"]
-    C --> D["🔁 REMEMBER<br/>TO REMEMBER"]
+    A["ATTACK<br/>to understand"] --> B["DEFEND<br/>to protect"]
+    B --> C["AUTOMATE<br/>to scale"]
+    C --> D["REMEMBER<br/>TO REMEMBER"]
     D --> A
 
     classDef node fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
@@ -63,10 +64,10 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
-    R["🔍 Recon<br/>Nmap · Gobuster"] --> E["📡 Enumeration<br/>Zenmap · Wireshark"]
-    E --> X["💥 Exploitation<br/>Burp · Metasploit"]
-    X --> P["⬆ Privilege<br/>Escalation"]
-    P --> REP["📝 Report &<br/>Remediate"]
+    R["Recon<br/>Nmap · Gobuster"] --> E["Enumeration<br/>Zenmap · Wireshark"]
+    E --> X["Exploitation<br/>Burp · Metasploit"]
+    X --> P["Privilege<br/>Escalation"]
+    P --> REP["Report &<br/>Remediate"]
     REP -.->|"harden + detect"| SIEM[("SIEM<br/>Rules")]
 
     classDef step fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
@@ -102,13 +103,13 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
-    C["📥 Commit"] --> S["🔑 Secrets &<br/>SAST Scan"]
-    S -->|pass| B["🐳 Build<br/>Docker Image"]
-    B --> I["🧪 Image &<br/>IaC Scan"]
-    I -->|pass| D["🚀 Deploy<br/>Terraform · Ansible"]
-    D --> M["📊 Monitor<br/>Logs → SIEM"]
+    C["Commit"] --> S["Secrets &<br/>SAST Scan"]
+    S -->|pass| B["Build<br/>Docker Image"]
+    B --> I["Image &<br/>IaC Scan"]
+    I -->|pass| D["Deploy<br/>Terraform · Ansible"]
+    D --> M["Monitor<br/>Logs → SIEM"]
 
-    S -->|fail| X["⛔ BLOCKED"]
+    S -->|fail| X["BLOCKED"]
     I -->|fail| X
 
     classDef ok fill:#000,stroke:#00ff41,stroke-width:2px,color:#00ff41;
@@ -134,8 +135,8 @@ flowchart LR
 %%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#000000','primaryTextColor':'#00ff41','primaryBorderColor':'#00ff41','lineColor':'#00ff41','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
 flowchart TB
     ME(("Karabo17-x"))
-    ME --> DONE["✔ Completed"]
-    ME --> WIP["~ In Progress"]
+    ME --> DONE["[✔] Completed"]
+    ME --> WIP["[~] In Progress"]
 
     DONE --> W1["Web Exploitation"]
     DONE --> W2["Network Attacks"]
@@ -182,8 +183,8 @@ flowchart LR
 
     subgraph DET["Detection & Response"]
         direction TB
-        RUL["Detection Rules"] --> ALR["🚨 Alerts"]
-        RUL --> DSH["📊 Dashboards"]
+        RUL["Detection Rules"] --> ALR["Alerts"]
+        RUL --> DSH["Dashboards"]
     end
 
     SRC --> COL
