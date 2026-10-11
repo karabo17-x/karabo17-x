@@ -27,14 +27,14 @@ focus     : Cybersecurity + DevOps
 ### ⬡ Mindset Loop
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#081545','primaryTextColor':'#7fd8ff','primaryBorderColor':'#2f8bff','lineColor':'#2f8bff','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#262626','primaryTextColor':'#e6e6e6','primaryBorderColor':'#8a8a8a','lineColor':'#b3b3b3','secondaryColor':'#262626','tertiaryColor':'#161616','edgeLabelBackground':'#555555','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
     A["ATTACK<br/>to understand"] --> B["DEFEND<br/>to protect"]
     B --> C["AUTOMATE<br/>to scale"]
     C --> D["REMEMBER<br/>TO REMEMBER"]
     D --> A
 
-    classDef node fill:#081545,stroke:#2f8bff,stroke-width:2px,color:#7fd8ff;
+    classDef node fill:#262626,stroke:#8a8a8a,stroke-width:2px,color:#e6e6e6;
     class A,B,C,D node;
 ```
 
@@ -61,7 +61,7 @@ flowchart LR
 ### ⬡ Engagement Flow
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#081545','primaryTextColor':'#7fd8ff','primaryBorderColor':'#2f8bff','lineColor':'#2f8bff','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#262626','primaryTextColor':'#e6e6e6','primaryBorderColor':'#8a8a8a','lineColor':'#b3b3b3','secondaryColor':'#262626','tertiaryColor':'#161616','edgeLabelBackground':'#555555','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
     R["Recon<br/>Nmap · Gobuster"] --> E["Enumeration<br/>Zenmap · Wireshark"]
     E --> X["Exploitation<br/>Burp · Metasploit"]
@@ -69,8 +69,8 @@ flowchart LR
     P --> REP["Report &<br/>Remediate"]
     REP -.->|"harden + detect"| SIEM[("SIEM<br/>Rules")]
 
-    classDef step fill:#081545,stroke:#2f8bff,stroke-width:2px,color:#7fd8ff;
-    classDef sink fill:#1f1100,stroke:#ffa31a,stroke-width:2px,stroke-dasharray:4 3,color:#ffb84d;
+    classDef step fill:#262626,stroke:#8a8a8a,stroke-width:2px,color:#e6e6e6;
+    classDef sink fill:#262626,stroke:#b3b3b3,stroke-width:2px,stroke-dasharray:4 3,color:#e6e6e6;
     class R,E,X,P,REP step;
     class SIEM sink;
 ```
@@ -100,7 +100,7 @@ flowchart LR
 ### ⬡ Fail-Closed Pipeline
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#081545','primaryTextColor':'#7fd8ff','primaryBorderColor':'#2f8bff','lineColor':'#2f8bff','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#262626','primaryTextColor':'#e6e6e6','primaryBorderColor':'#8a8a8a','lineColor':'#b3b3b3','secondaryColor':'#262626','tertiaryColor':'#161616','edgeLabelBackground':'#555555','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
     C["Commit"] --> S["Secrets &<br/>SAST Scan"]
     S -->|pass| B["Build<br/>Docker Image"]
@@ -111,8 +111,8 @@ flowchart LR
     S -->|fail| X["BLOCKED"]
     I -->|fail| X
 
-    classDef ok fill:#081545,stroke:#2f8bff,stroke-width:2px,color:#7fd8ff;
-    classDef bad fill:#1f0511,stroke:#ff4d8d,stroke-width:2px,color:#ff4d8d;
+    classDef ok fill:#262626,stroke:#8a8a8a,stroke-width:2px,color:#e6e6e6;
+    classDef bad fill:#2a1515,stroke:#c0504d,stroke-width:2px,color:#e6a3a1;
     class C,S,B,I,D,M ok;
     class X bad;
 ```
@@ -131,7 +131,7 @@ flowchart LR
 ```
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#081545','primaryTextColor':'#7fd8ff','primaryBorderColor':'#2f8bff','lineColor':'#2f8bff','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#262626','primaryTextColor':'#e6e6e6','primaryBorderColor':'#8a8a8a','lineColor':'#b3b3b3','secondaryColor':'#262626','tertiaryColor':'#161616','edgeLabelBackground':'#555555','fontFamily':'Courier New, monospace'}}}%%
 flowchart TB
     ME(("Karabo17-x"))
     ME --> DONE["[✔] Completed"]
@@ -145,9 +145,9 @@ flowchart TB
     WIP --> P2["CI/CD Pipeline Security"]
     WIP --> P3["Infrastructure as Code"]
 
-    classDef root fill:#ffa31a,stroke:#ffd27a,stroke-width:2px,color:#000000,font-weight:bold;
-    classDef done fill:#081545,stroke:#2f8bff,stroke-width:2px,color:#7fd8ff;
-    classDef wip fill:#081545,stroke:#2f8bff,stroke-width:2px,stroke-dasharray:5 3,color:#7fd8ff;
+    classDef root fill:#4a4a4a,stroke:#d0d0d0,stroke-width:2px,color:#ffffff,font-weight:bold;
+    classDef done fill:#262626,stroke:#8a8a8a,stroke-width:2px,color:#e6e6e6;
+    classDef wip fill:#262626,stroke:#8a8a8a,stroke-width:2px,stroke-dasharray:5 3,color:#e6e6e6;
     class ME root;
     class DONE,W1,W2,W3 done;
     class WIP,P1,P2,P3 wip;
@@ -166,7 +166,7 @@ flowchart TB
 ##  Current Project: SIEM Build
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#000000','primaryColor':'#081545','primaryTextColor':'#7fd8ff','primaryBorderColor':'#2f8bff','lineColor':'#2f8bff','secondaryColor':'#000000','tertiaryColor':'#000000','fontFamily':'Courier New, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#262626','primaryTextColor':'#e6e6e6','primaryBorderColor':'#8a8a8a','lineColor':'#b3b3b3','secondaryColor':'#262626','tertiaryColor':'#161616','edgeLabelBackground':'#555555','fontFamily':'Courier New, monospace'}}}%%
 flowchart LR
     subgraph SRC["Log Sources"]
         direction TB
@@ -189,11 +189,11 @@ flowchart LR
     SRC --> COL
     STO --> RUL
 
-    classDef n fill:#081545,stroke:#2f8bff,stroke-width:2px,color:#7fd8ff;
+    classDef n fill:#262626,stroke:#8a8a8a,stroke-width:2px,color:#e6e6e6;
     class L1,L2,L3,COL,PAR,STO,RUL,ALR,DSH n;
-    style SRC fill:#030a26,stroke:#2f8bff,stroke-dasharray:4 3,color:#7fd8ff
-    style PIPE fill:#030a26,stroke:#2f8bff,stroke-dasharray:4 3,color:#7fd8ff
-    style DET fill:#030a26,stroke:#2f8bff,stroke-dasharray:4 3,color:#7fd8ff
+    style SRC fill:#161616,stroke:#8a8a8a,stroke-dasharray:4 3,color:#e6e6e6
+    style PIPE fill:#161616,stroke:#8a8a8a,stroke-dasharray:4 3,color:#e6e6e6
+    style DET fill:#161616,stroke:#8a8a8a,stroke-dasharray:4 3,color:#e6e6e6
 ```
 
 ---
