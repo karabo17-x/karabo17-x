@@ -3,12 +3,6 @@
 
 # Karabo17-x
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+%40+Eclipse+Softworks;MWR+CyberSec+Alumni;Offensive+%26+Defensive+Ops;DevOps+%26+Automation;Breaking+Systems+to+Secure+Them" />
-
-![](https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/MODE-ULTRA-00ff41?style=for-the-badge&labelColor=000000)
-
 </div>
 
 ---
