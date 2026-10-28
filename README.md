@@ -10,17 +10,8 @@
 ```bash
 root@karabo17x:~# whoami
 name      : Karabo Mothapo
-role      : Security Engineer @ Eclipse Softworks
-status    : MWR CyberSec Internship — COMPLETED 
-location  : South Africa 
-objective : Breaking systems to secure them, automating how they're built
-project   : Building SIEM
-focus     : Cybersecurity + DevOps
 ```
-
-
 </p>
-
 
 ```
 > Attack to understand. Defend to protect. Automate to scale. REMEMBER TO REMEMBER.
