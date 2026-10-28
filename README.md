@@ -17,99 +17,16 @@
 root@karabo17x:~# whoami
 name      : Karabo Mothapo
 role      : Security Engineer @ Eclipse Softworks
-status    : MWR CyberSec Internship — COMPLETED ✔
+status    : MWR CyberSec Internship — COMPLETED 
 location  : South Africa 
 objective : Breaking systems to secure them, automating how they're built
 project   : Building SIEM
 focus     : Cybersecurity + DevOps
 ```
----
 
-##  Cyber Arsenal
 
-|  Offensive |  Defensive |
-|---|---|
-| SQLi · XSS · CSRF · SSRF | SIEM Monitoring |
-| Recon & Enumeration | Threat Detection |
-| Exploit Development | System Hardening |
-| Network Exploitation | Risk Mitigation |
-
-```
-[✔] Burp Suite   [✔] Metasploit   [✔] Nmap
-[✔] Wireshark    [✔] Gobuster     [✔] Zenmap
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,go,c&theme=dark" />
 </p>
 
----
-
-## ⚙ DevOps Arsenal
-
-|  CI/CD & Automation |  Infra & Cloud |
-|---|---|
-| Jenkins · GitHub Actions | AWS (EC2, IAM, S3, VPC) |
-| Docker · Container Hardening | Terraform (IaC) |
-| Ansible Playbooks | Kubernetes (learning) |
-| Shell/Bash Scripting | Log Aggregation & Monitoring |
-
-```
-[✔] Docker       [✔] Terraform    [✔] Ansible
-[✔] Jenkins      [~] Kubernetes   [✔] GitHub Actions
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,aws,linux&theme=dark" />
-</p>
-
-> Security-minded DevOps: pipelines that fail closed, infra that's hardened by default, and logs that actually get watched.
-
----
-
-## ⬡ Active Targets
-
-```
-[✔] Web Exploitation
-[✔] Network Attacks
-[✔] Privilege Escalation
-[~] Advanced Malware Analysis   ← in progress
-[~] CI/CD Pipeline Security     ← in progress
-[~] Infrastructure as Code      ← in progress
-```
-
----
-
-##  Completed Programs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MWR%20CyberSec-Internship%20Completed-00ff41?style=for-the-badge&labelColor=000000" />
-</p>
-
----
-
-##  Threat Intel
-
-<p align="center">
-  <a href="https://tryhackme.com/karabocollenm">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000&color=000000" />
-  </a>
-  <a href="https://hackthebox.com/karabo17x">
-    <img src="https://img.shields.io/badge/HackTheBox-Active-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=000000&color=000000" />
-  </a>
-</p>
-
----
-
-##  Connect
-
-<p align="center">
-  <a href="https://github.com/karabo17-x">
-    <img src="https://img.shields.io/badge/GitHub-karabo17--x-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=000000" />
-  </a>
-</p>
-
----
 
 ```
 > Attack to understand. Defend to protect. Automate to scale. REMEMBER TO REMEMBER.
